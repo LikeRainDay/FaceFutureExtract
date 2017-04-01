@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="D:\Program Files\dlib\dlib\all\source.cpp" />
     <ClCompile Include="D:\Program Files\dlib\examples\webcam_face_pose_ex.cpp" />
+    <ClCompile Include="FaceLandMarkerPosition.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

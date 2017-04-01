@@ -21,5 +21,8 @@
     <ClCompile Include="D:\Program Files\dlib\examples\webcam_face_pose_ex.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FaceLandMarkerPosition.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
